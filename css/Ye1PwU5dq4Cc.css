@@ -7,4 +7,4 @@ ul#menu li a { height: 41px; color: #FFF; text-decoration: none; display: block;
 
 ul#menu li a:hover { color: #FFF; text-decoration:overline; }
 
-ul#menu li a.current{ color: #FFF; text-decoration:none; background: #FFF url(../images/JU2CP3DwgZfM.jpg) top left repeat-x; margin: 0 0 0 5px; width:100px;}
+/* ul#menu li a.current{ color: #FFF; text-decoration:none; background: #FFF url(../images/JU2CP3DwgZfM.jpg) top left repeat-x; margin: 0 0 0 5px; width:100px;} */
